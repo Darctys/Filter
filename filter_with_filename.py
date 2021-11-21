@@ -68,6 +68,7 @@ width_moz = 10
 height_moz = 10
 grayscale_step = 1
 make_grey_pictures()
+
 if __name__ == "__main__":
     import doctest
     doctest.testmod()
