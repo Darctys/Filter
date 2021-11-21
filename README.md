@@ -5,3 +5,5 @@ old_filter.py время испрлнения значительно ниже п
 ![image](https://user-images.githubusercontent.com/72296553/142731620-7b72b5e4-24a5-43e2-b657-8db7bc1b0813.png)  
 filter_with_filename.py время исполнения значительно уменьшилось после исключения человеческого фактора во время работы программы (исключено время введения данных), но время всё равно у величилось по сравнению с old_filter.py  
 ![image](https://user-images.githubusercontent.com/72296553/142732568-2f4de38c-f99b-4e4c-876e-e5c0ac72608e.png)  
+Doctests на метод get_grayscale  
+![image](https://user-images.githubusercontent.com/72296553/142772054-1340a3e4-bc90-4994-8327-45c5ff169a2c.png)  
